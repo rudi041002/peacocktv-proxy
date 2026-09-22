@@ -1,7 +1,7 @@
 {
-  "name": "peacock-proxy",
+  "name": "peacocktv-proxy",
   "version": "1.0.0",
-  "description": "Peacock streaming proxy",
+  "description": "Peacocktv streaming proxy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
